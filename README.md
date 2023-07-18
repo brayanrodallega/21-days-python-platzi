@@ -11,9 +11,9 @@ El reto consiste en aprender un concepto nuevo cada día y aplicarlo en un ejerc
 
 ***
 
-## [- [x] Día 1: Retorna el tipo](https://github.com/brayanrodallega/21-days-python-platzi/tree/main/dia1) ✅
+## [- [x] Día 1:](https://github.com/brayanrodallega/21-days-python-platzi/tree/main/dia1) ✅
 
-## [- [x] Día 2: Calcula la propina](https://github.com/brayanrodallega/21-days-python-platzi/tree/main/dia2) ✅
+## [- [x] Día 2:](https://github.com/brayanrodallega/21-days-python-platzi/tree/main/dia2) ✅
 
 ***
 
