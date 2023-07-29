@@ -37,6 +37,8 @@ El reto consiste en aprender un concepto nuevo cada día y aplicarlo en un ejerc
 
 ## [- [x] Día 13:](https://github.com/brayanrodallega/21-days-python-platzi/tree/main/dia13) ✅
 
+## [- [x] Día 14:](https://github.com/brayanrodallega/21-days-python-platzi/tree/main/dia14) ✅
+
 ***
 
 ¡Mantendré esta lista actualizada a medida que avance en mi ruta de aprendizaje!
